@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+body {
+    background-image: url(gas-mask-3840x2160-8813.jpg)
+}
+
+#one {
+    background-color: aliceblue;
+}
+
+#form {
+    margin-top: 50px;
+}
